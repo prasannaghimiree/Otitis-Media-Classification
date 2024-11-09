@@ -1,7 +1,7 @@
 Otitis Media Classification Project
 ====================================
 
-This project is focused on classifying otitis media conditions using a deep learning model. The model leverages PyTorch and the Ignite library to perform efficient training and evaluation. The project also includes automated logging, model checkpointing, and data transformations to optimize the model's performance. It is designed for reproducibility and is ready for submission to Grand Challenge (https://grandchallenge.org/).
+This project is focused on classifying otitis media conditions using a deep learning model. The model leverages PyTorch and the Ignite library to perform efficient training and evaluation. The project also includes automated logging, model checkpointing, and data transformations to optimize the model's performance. It is designed for reproducibility and is ready for submission to Grand Challenge (https://grand-challenge.org/).
 
 Table of Contents
 -----------------
